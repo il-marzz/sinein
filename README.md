@@ -1,2 +1,1 @@
-# For endless tests!!!
-go fys plz;)
+# Nothing's here
