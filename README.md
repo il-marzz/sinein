@@ -1,1 +1,2 @@
-# sinein
+# For endless tests!!!
+go fys plz;)
